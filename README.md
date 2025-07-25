@@ -1,4 +1,5 @@
-# 👋 Hi there, I am Mufrad Mahmud
+# 👋 Hi there, 
+## I am Mufrad Mahmud
 
 🎓 MSc student in Computer Science & Engineering (Applied Computing) at the **University of Oulu**  
 🛠 Passionate about **AI**, **HCI**, **frontend and backend development**, and **intelligent systems**  
