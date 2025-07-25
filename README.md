@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Research Focus
+## 🧠 Current Research Focus
 Designing a feedback-driven survey platform to assess smartphone addiction using machine learning and large language models (GPT-4, Claude, Huggingface etc.).  
 Tools: Python, FastAPI, PostgreSQL, OpenAI API
 
@@ -31,5 +31,5 @@ Tools: Python, FastAPI, PostgreSQL, OpenAI API
 
 ---
 
-> ⚡ *“I enjoy building systems that blend intelligence, interactivity, and impact.”*
+> ⚡ *“I enjoy building systems that blend intelligence, interactivity, and impact. Most importantly, I do stuff for fun and gaining experience.”*
 
