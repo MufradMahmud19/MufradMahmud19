@@ -26,7 +26,7 @@ Tools: Python, FastAPI, PostgreSQL, OpenAI API
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mufrad-mahmud/)  
-- 📧 mufrad.mahmud@student.oulu.fi/mumahmud24@univ.yo.oulu.fi  
+- 📧 mufrad.mahmud@student.oulu.fi
 - 🌐 [GitHub](https://github.com/MufradMahmud19)
 
 ---
