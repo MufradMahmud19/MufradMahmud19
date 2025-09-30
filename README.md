@@ -7,8 +7,8 @@
 ---
 
 ## 🧠 Current Research Focus
-Designing a feedback-driven survey platform to assess smartphone addiction using machine learning and large language models (GPT-4, Claude, Huggingface etc.).  
-Tools: Python, FastAPI, PostgreSQL, OpenAI API
+Designing an intelligent, feedback-driven survey platform to assess smartphone addiction among university students using standardized scales like SAS-SV. The system delivers real-time, personalized feedback after each question and classifies users by behavioral risk. It integrates LLMs (Mistral-7B via Hugging Face) for dynamic insights and machine learning models for risk profiling. The platform also supports repeat participation with unique user codes to track behavioral trends over time.
+**Tools:** Python, FastAPI, PostgreSQL, OpenAI API
 
 ---
 
