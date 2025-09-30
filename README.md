@@ -8,6 +8,7 @@
 
 ## 🧠 Current Research Focus
 Designing an intelligent, feedback-driven survey platform to assess smartphone addiction among university students using standardized scales like SAS-SV. The system delivers real-time, personalized feedback after each question and classifies users by behavioral risk. It integrates LLMs (Mistral-7B via Hugging Face) for dynamic insights and machine learning models for risk profiling. The platform also supports repeat participation with unique user codes to track behavioral trends over time.
+
 **Tools:** Python, FastAPI, PostgreSQL, OpenAI API
 
 ---
