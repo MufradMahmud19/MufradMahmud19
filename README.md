@@ -2,7 +2,7 @@
 ### I am Mufrad Mahmud
 🎓 MSc student in Computer Science & Engineering (Applied Computing) at the **University of Oulu**  
 🛠 Passionate about **AI**, **HCI**, **frontend and backend development**, **Climate and environmental science**, and **intelligent systems**  
-🔬 Worked as a **Research Assistant** at **UBICOMP** (Ubiquitous Computing Center) in summer 2025, currently working as a **Research Assistant** at **ATMOS** (Centre of Atmospheric Research) for my master's Thesis.
+🔬 Worked as a **Research Assistant** at **UBICOMP** (Ubiquitous Computing Center) in summer 2025, currently working as a **Research Assistant** at **ATMOS** (Centre of Atmospheric Research) for my master's thesis.
 
 ---
 
