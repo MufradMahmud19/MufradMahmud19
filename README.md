@@ -1,28 +1,29 @@
-# 👋 Hi there, 
-### I am Mufrad Mahmud
-🎓 MSc student in Computer Science & Engineering (Applied Computing) at the **University of Oulu**  
-🛠 Passionate about **AI**, **HCI**, **frontend and backend development**, **Climate and environmental science**, and **intelligent systems**  
-🔬 Worked as a **Research Assistant** at **UBICOMP** (Ubiquitous Computing Center) in summer 2025, currently working as a **Research Assistant** at **ATMOS** (Centre of Atmospheric Research) for my master's thesis.
+# 👋 Hi there, I am Mufrad Mahmud
+
+🎓 **MSc Student in Computer Science & Engineering (Applied Computing)** at the **University of Oulu**
+🔬 **Currently:** Research Assistant at the **Center for Atmospheric Research (ATMOS)**, developing computational models and simulations for my Master's thesis.
+💻 **Previously:** Research Assistant at the **Center for Ubiquitous Computing (UBICOMP)** during Summer 2025.
+🌱 **Focus Areas:** Applied Machine Learning, Edge AI/IoT, Software Prototyping, and Computational Modeling.
 
 ---
 
-## 🧠 Internship Focus
-Designing an intelligent, feedback-driven survey platform to assess smartphone addiction among university students using standardized scales like SAS-SV. The system delivers real-time, personalized feedback after each question and classifies users by behavioral risk. It integrates LLMs (Mistral-7B via Hugging Face) for dynamic insights and machine learning models for risk profiling. The platform also supports repeat participation with unique user codes to track behavioral trends over time.
+## 🔭 Current & Recent Research
 
-**Tools:** Python, FastAPI, PostgreSQL, OpenAI API
+**Atmospheric Computational Modeling (ATMOS | Current)** Developing computational monolayer models and simulations to investigate the complex surface dynamics and bulk-surface partitioning of atmospheric acid surfactants.
+
+**LLM-Driven Behavioral Profiling (UBICOMP | Summer 2025)** Designed an intelligent, feedback-driven platform to assess smartphone addiction among university students using standardized scales (SAS-SV). The system integrates LLMs (Mistral-7B via Hugging Face) and machine learning models to deliver real-time, personalized feedback and classify users by behavioral risk. The platform supports repeat participation with unique user codes to track behavioral trends over time.  
+**Tools:** Python, FastAPI, PostgreSQL, OpenAI API, Hugging Face
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 **Languages:** Python, Java, C/C++, JavaScript, Dart, SQL  
-**Frameworks:** Flask, React, Bootstrap, Rasa  
+**Frameworks:** Flask, FastAPI, React, Bootstrap, Rasa  
 **ML/AI Tools:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, MLflow  
 **DevOps:** Docker, Kubernetes, Ansible, Jenkins, GitLab CI  
-**Databases:** MySQL, SQLite, Redis, MongoDB  
-**Prototyping:** Raspberry Pi Pico W, Arduino, Figma  
-
----
+**Databases:** PostgreSQL, MySQL, SQLite, Redis, MongoDB  
+**Prototyping/Edge:** Raspberry Pi Pico W, Arduino, MQTT, Node-RED, Figma
 
 ## 📫 Get in Touch
 
