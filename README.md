@@ -1,8 +1,11 @@
 # 👋 Hi there, I am Mufrad Mahmud
 
 🎓 **MSc Student in Computer Science & Engineering (Applied Computing)** at the **University of Oulu**
+
 🔬 **Currently:** Research Assistant at the **Center for Atmospheric Research (ATMOS)**, developing computational models and simulations for my Master's thesis.
+
 💻 **Previously:** Research Assistant at the **Center for Ubiquitous Computing (UBICOMP)** during Summer 2025.
+
 🌱 **Focus Areas:** Applied Machine Learning, Edge AI/IoT, Software Prototyping, and Computational Modeling.
 
 ---
