@@ -10,12 +10,14 @@
 
 ---
 
-## 🔭 Current & Recent Research
+## 🔭 Recent Research
 
-**Atmospheric Computational Modeling (ATMOS | Current)** Developing computational monolayer models and simulations to investigate the complex surface dynamics and bulk-surface partitioning of atmospheric acid surfactants.
+**Atmospheric Computational Modeling (ATMOS | Oct 2025 - Apr 2026)** Developed and validated a Python-based thermodynamic model to investigate bulk-surface partitioning and surface activity of atmospheric surfactants in aerosol nanodroplets[cite: 4]. Combined numerical simulations with statistical analysis to investigate thermodynamic and physicochemical processes for my Master's thesis, focusing on a monolayer model study of droplet size effects[cite: 4].
 
-**LLM-Driven Behavioral Profiling (UBICOMP | Summer 2025)** Designed an intelligent, feedback-driven platform to assess smartphone addiction among university students using standardized scales (SAS-SV). The system integrates LLMs (Mistral-7B via Hugging Face) and machine learning models to deliver real-time, personalized feedback and classify users by behavioral risk. The platform supports repeat participation with unique user codes to track behavioral trends over time.  
-**Tools:** Python, FastAPI, PostgreSQL, OpenAI API, Hugging Face
+**LLM-Driven Behavioral Profiling (UBICOMP | Jun 2025 - Sep 2025)** Built an intelligent digital platform integrating generative AI and machine learning for behavioral analysis and risk classification[cite: 4]. Developed robust backend services to deliver real-time feedback, integrating LLM-based insights (Mistral-7B) to create a functional, practical prototype[cite: 4].
+**Tools:** Python, FastAPI, PostgreSQL, Generative AI (Mistral-7B), Machine Learning[cite: 4]
+
+**ML-Based Agricultural Monitoring (BSc Thesis | Nov 2022 - Dec 2023)** Developed a CNN-based image recognition system for agricultural disease classification using image preprocessing and augmentation[cite: 4]. Extracted deep visual features and integrated machine learning classifiers to develop a robust computational approach for environmental monitoring[cite: 4].
 
 ---
 
