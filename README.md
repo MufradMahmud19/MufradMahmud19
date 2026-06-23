@@ -24,10 +24,15 @@
 ## 🛠 Tech Stack
 
 **Languages:** Python, Java, C/C++, JavaScript, Dart, SQL  
+
 **Frameworks:** Flask, FastAPI, React, Bootstrap, Rasa  
+
 **ML/AI Tools:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, MLflow  
+
 **DevOps:** Docker, Kubernetes, Ansible, Jenkins, GitLab CI  
+
 **Databases:** PostgreSQL, MySQL, SQLite, Redis, MongoDB  
+
 **Prototyping/Edge:** Raspberry Pi Pico W, Arduino, MQTT, Node-RED, Figma
 
 ## 📫 Get in Touch
