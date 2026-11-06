@@ -65,4 +65,4 @@ Developed a CNN-based image recognition system for agricultural disease classifi
 * 📧 [mahmudmufrad123@gmail.com](mahmudmufrad123@gmail.com)
 * 🌐 [GitHub](https://github.com/MufradMahmud19)
 
-> ⚡ *"I build systems that sit at the intersection of intelligence, science, and impact — from atmospheric thermodynamics to computer vision for soil and agriculture. Most importantly, I do stuff for fun and to gain experience."*
+> ⚡ *"I build systems that sit at the intersection of intelligence, science, and impact, from atmospheric thermodynamics to computer vision for soil and agriculture. Most importantly, I do stuff for fun and to gain experience."*
