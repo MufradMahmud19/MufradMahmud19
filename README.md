@@ -14,15 +14,15 @@
 
 ### 🔭 Recent Research
 
-**Multi-Component Aerosol & Micellization Modeling (ATMOS Collaborative Research | 2026)**  
+**Multi-Component Aerosol & Micellization Modeling → (ATMOS Collaborative Research | 2026)**  
 Extended thermodynamic Köhler and Monolayer frameworks in Python to simulate realistic mixed organic–inorganic–insoluble aerosol particles (SDS–NaCl–insoluble cores) modeled after experimental systems investigated by Dr. Ana Kroflič. Evaluated the coupled effects of dry particle composition, micelle aggregation numbers, counterion binding, and Pitzer–Debye–Hückel ionic activities (CISA) on bulk–surface partitioning, surface tension, water activity, and cloud condensation nuclei (CCN) activation across sub-micron droplet growth spectra.  
 *Tools: Python, SciPy, NumPy, Pandas, Matplotlib, LaTeX*
 
-**Atmospheric Computational Modeling — Master's Thesis (ATMOS | Oct 2025 – Apr 2026)**  
+**Atmospheric Computational Modeling → Master's Thesis (ATMOS | Oct 2025 – Apr 2026)**  
 Developed, ported, and validated a Python-based thermodynamic modeling suite (`Mono`, `MonoMic`, `CluMic`, `CluMicNa`, and `CISA`) to investigate bulk–surface partitioning and the surface activity of atmospheric surfactants in aerosol nanodroplets. Combined constrained numerical root-finding with statistical and sensitivity analyses to evaluate how monolayer depletion, pre-micellar clustering, and micellization above the Critical Micelle Concentration (CMC) govern hygroscopic growth and droplet size effects.  
 *Tools: Python, Numerical Optimization, Thermodynamic Modeling, Statistical Analysis*
 
-**LLM-Driven Behavioral Profiling (UBICOMP | Jun 2025 – Sep 2025)**  
+**LLM-Driven Behavioral Profiling → (UBICOMP | Jun 2025 – Sep 2025)**  
 Built an intelligent digital platform integrating generative AI and machine learning for behavioral analysis and risk classification. Developed robust backend services to deliver real-time feedback, integrating LLM-based insights (Mistral-7B) to create a functional, practical prototype.  
 *Tools: Python, FastAPI, PostgreSQL, Generative AI (Mistral-7B), Machine Learning*
 
@@ -49,7 +49,7 @@ Developed a CNN-based image recognition system for agricultural disease classifi
 
 ### 🛠 Tech Stack
 
-* **Languages:** Python, Java, C/C++, JavaScript, Dart, SQL, MATLAB
+* **Languages:** Python, Java, C/C++, JavaScript, SQL, MATLAB
 * **ML/AI & Computer Vision:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, Grad-CAM, MLflow
 * **Scientific Computing & Numerical Methods:** NumPy, SciPy, Pandas, Matplotlib, PyWavelets, LaTeX
 * **Frameworks:** Flask, FastAPI, React, Bootstrap, Rasa
