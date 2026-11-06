@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Mufrad Mahmud
 
-🎓 **MSc in Computer Science and Engineering (Applied Computing)** at the University of Oulu
+🎓 **MSc graduate in Computer Science and Engineering (Applied Computing)** at the University of Oulu
 
 🔬 **Recently:** Research Assistant at the Center for Atmospheric Research (ATMOS), developing Python-based thermodynamic and physicochemical models to simulate bulk–surface partitioning, micellization, and cloud droplet activation of multi-component atmospheric aerosols for my Master's thesis and collaborative research.
 
